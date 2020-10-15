@@ -9,5 +9,6 @@ cp .config/* ubuntui3dot/.config/ -r
 cp .i3 ubuntui3dot -r
 cp .vimrc ubuntui3dot
 cp .gtkrc-2.0 ubuntui3dot
-sudo cp /usr/share/themes/* ubuntui3dot/themes -r
+sudo cp /usr/share/themes/Arc* ubuntui3dot/themes -r
+sudo cp /usr/share/icons/Papirus* ubuntui3dot/icons -r
 sudo cp /usr/share/fonts/* ubuntui3dot/fonts -r
