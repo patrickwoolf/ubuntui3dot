@@ -1,0 +1,8 @@
+2020/10/13-23:48:08.243 5104 Reusing MANIFEST /home/patrick/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.notion.so_0.indexeddb.leveldb/MANIFEST-000001
+2020/10/13-23:48:08.243 5104 Recovering log #4
+2020/10/13-23:48:08.243 5104 Reusing old log /home/patrick/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.notion.so_0.indexeddb.leveldb/000004.log 
+2020/10/13-23:53:21.426 3b0e Level-0 table #8: started
+2020/10/13-23:53:21.426 3b0e Level-0 table #8: 0 bytes OK
+2020/10/13-23:53:21.438 3b0e Delete type=0 #4
+2020/10/13-23:53:21.438 3b0e Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/10/13-23:53:21.438 3b0e Manual compaction at level-1 from (begin) .. (end); will stop at (end)

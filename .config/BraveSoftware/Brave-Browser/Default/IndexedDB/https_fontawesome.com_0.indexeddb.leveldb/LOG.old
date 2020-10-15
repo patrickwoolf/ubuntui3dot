@@ -1,0 +1,5 @@
+2020/10/13-23:26:14.405 3a5f Reusing MANIFEST /home/patrick/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_fontawesome.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/10/13-23:26:16.498 3b0e Level-0 table #5: started
+2020/10/13-23:26:16.509 3b0e Level-0 table #5: 364 bytes OK
+2020/10/13-23:26:16.518 3b0e Delete type=0 #3
+2020/10/13-23:26:16.518 3b0e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

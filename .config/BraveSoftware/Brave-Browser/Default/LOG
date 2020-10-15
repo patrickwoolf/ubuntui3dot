@@ -1,0 +1,8 @@
+2020/10/14-09:18:07.445 9fa Recovering log #6
+2020/10/14-09:18:07.445 9fa Level-0 table #8: started
+2020/10/14-09:18:07.450 9fa Level-0 table #8: 3560 bytes OK
+2020/10/14-09:18:07.463 9fa Delete type=0 #6
+2020/10/14-09:18:07.463 9fa Delete type=3 #4
+2020/10/14-09:19:09.217 1008 Level-0 table #11: started
+2020/10/14-09:19:09.223 1008 Level-0 table #11: 8288 bytes OK
+2020/10/14-09:19:09.230 1008 Delete type=0 #9
